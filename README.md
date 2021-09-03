@@ -1,8 +1,8 @@
 ## Computer vision
 
-Las imágenes para realizar este análisis se han obtenido de los siguientes videos de [Youtube]:
+Las imágenes para realizar este análisis se han obtenido de los siguientes videos de Youtube:
 
-- (https://www.youtube.com/watch?v=MLoGKahcQG0)
+- [YouTube](https://www.youtube.com/watch?v=MLoGKahcQG0)
 - (https://www.youtube.com/watch?v=KDbYC8a-Wtw)
 - (https://www.youtube.com/watch?v=yURcfQUaAGM)
 - (https://www.youtube.com/watch?v=jCONWIE2TYw)
