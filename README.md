@@ -1,6 +1,13 @@
 ## Computer vision
 
-Los datasets para realizar este análisis se han obtenido de la página web del [Instituto Carlos III](https://cnecovid.isciii.es/covid19/) y de la página del [INE](https://www.ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254734710984).
+Las imágenes para realizar este análisis se han obtenido de los siguientes videos de [Youtube]:
+
+- (https://www.youtube.com/watch?v=MLoGKahcQG0)
+- (https://www.youtube.com/watch?v=KDbYC8a-Wtw)
+- (https://www.youtube.com/watch?v=yURcfQUaAGM)
+- (https://www.youtube.com/watch?v=jCONWIE2TYw)
+
+y también usando el buscador de [Google] (https://www.google.com/).
 
 Para presentar los resultados se ha usado el dashboard de streamlit que está en la carpeta `streamlit`. 
 
