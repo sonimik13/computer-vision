@@ -8,13 +8,13 @@ Todo el código está escrito en Python utilizando `notebooks` de PyCharm y Goog
 
 A continuación se explica el código generado y la secuencia de ejecución a seguir:
 
-*functions.py --- Descripción de las funciones usadas en los scripts videos.py e images.py
+* functions.py --- Descripción de las funciones usadas en los scripts videos.py e images.py
 
-*videos.py --- Generación de los frames en formato .jpg a partir de la carpeta videos
+* videos.py --- Generación de los frames en formato .jpg a partir de la carpeta videos
 
-*images.py --- Generación de los labels en formato .txt y las imágenes rotadas horizontalmente y verticalmente a partir de la carpeta entrada
+* images.py --- Generación de los labels en formato .txt y las imágenes rotadas horizontalmente y verticalmente a partir de la carpeta entrada
 
-*object_detection.ipynb --- Detección del objeto mediante YOLOv5 a partir del fichero train_data.zip y el archivo custom_data.yaml 
+* object_detection.ipynb --- Detección del objeto mediante YOLOv5 a partir del fichero train_data.zip y el archivo custom_data.yaml 
 
 
 **Palabras clave** (Python, OpenCV, YOLO, object detection, computer vision, IA)
