@@ -6,7 +6,7 @@ Además también se ha usado el buscador de [Google](https://www.google.com/) co
 
 Todo el código está escrito en Python utilizando `notebooks` de PyCharm y Google colab para ejecutar en la nube con TPU el entrenamiento de las imágenes y la detección del objeto.
 
-A continuación se explica el código generado y la secuencia de ejecución a seguir:
+A continuación se explica el código generado:
 
 * functions.py --- Descripción de las funciones usadas en los scripts videos.py e images.py
 
