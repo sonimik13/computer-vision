@@ -16,5 +16,11 @@ A continuación se explica el código generado:
 
 * object_detection.ipynb --- Detección del objeto (en este caso, un pitufo) en un video mediante YOLOv5 a partir del fichero train_data.zip y el archivo custom_data.yaml 
 
+Y el resultado:
+
+* video_entrada.mp4 --- Video de entrada usado para la detección del objeto
+
+* video_salida.mp4 --- Video que muestra la detección del objeto junto con el nombre de su label y la probabilidad
+
 
 **Palabras clave** (Python, OpenCV, YOLO, object detection, computer vision, IA)
