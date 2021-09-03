@@ -23,4 +23,5 @@ Y el resultado:
 * video_salida.mp4 --- Video que muestra la detección del objeto junto con el nombre de su label y la probabilidad
 
 
+
 **Palabras clave** (Python, OpenCV, YOLO, object detection, computer vision, IA)
