@@ -14,7 +14,7 @@ A continuación se explica el código generado:
 
 * images.py --- Generación de los labels en formato .txt y las imágenes rotadas horizontalmente y verticalmente a partir de la carpeta entrada
 
-* object_detection.ipynb --- Detección del objeto (en este caso, un pitufo) mediante YOLOv5 a partir del fichero train_data.zip y el archivo custom_data.yaml 
+* object_detection.ipynb --- Detección del objeto (en este caso, un pitufo) en un video mediante YOLOv5 a partir del fichero train_data.zip y el archivo custom_data.yaml 
 
 
 **Palabras clave** (Python, OpenCV, YOLO, object detection, computer vision, IA)
