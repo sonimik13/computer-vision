@@ -4,8 +4,8 @@ Las imágenes para realizar este análisis se han obtenido de los siguientes vid
 
 Además también se ha usado el buscador de [Google](https://www.google.com/) para la obtención de más imágenes.
 
-Todo el código está escrito en Python utilizando `notebooks` de PyCharm y Google colab
+Todo el código está escrito en Python utilizando `notebooks` de PyCharm y Google colab para ejecutar en la nube con TPU el entrenamiento de las imágenes y la detección del objeto.
 
 Las gráficas generadas, la mayor parte de ellas interactivas, se pueden visualizar en la carpeta `img`.
 
-**Palabras clave** (Python, OpenCV, YOLO, object detection, IA)
+**Palabras clave** (Python, OpenCV, YOLO, object detection, computer vision, IA)
