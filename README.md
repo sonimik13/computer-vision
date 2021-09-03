@@ -6,6 +6,12 @@ Además también se ha usado el buscador de [Google](https://www.google.com/) co
 
 Todo el código está escrito en Python utilizando `notebooks` de PyCharm y Google colab para ejecutar en la nube con TPU el entrenamiento de las imágenes y la detección del objeto.
 
-Las gráficas generadas, la mayor parte de ellas interactivas, se pueden visualizar en la carpeta `img`.
+A continuación se explica el código generado:
+
+funtions.py --- Descripción de las funciones usadas en los scripts videos.py e images.py
+videos.py --- Generación de los frames en formato .jpg a partir de la carpeta videos
+images.py --- Generación de los labels en formato .txt y las imágenes rotadas horizontalmente y verticalmente a partir de la carpeta entrada
+
+
 
 **Palabras clave** (Python, OpenCV, YOLO, object detection, computer vision, IA)
