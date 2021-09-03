@@ -4,7 +4,7 @@ Las imágenes para realizar este análisis se han obtenido de los siguientes vid
 
 Además también se ha usado el buscador de [Google](https://www.google.com/) como técnica añadida para obtener más imágenes.
 
-Todo el código está escrito en Python utilizando `notebooks` de PyCharm y Google colab para ejecutar en la nube con TPU el entrenamiento de las imágenes y la detección del objeto.
+Todo el código está escrito en Python utilizando `notebooks` de PyCharm y Google colab para ejecutar en la nube con GPU el entrenamiento de las imágenes y la detección del objeto.
 
 A continuación se explica el código generado:
 
