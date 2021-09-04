@@ -18,9 +18,9 @@ A continuación se explica el código generado:
 
 Y el resultado:
 
-* video_entrada.mp4 --- Video de entrada usado para la detección del objeto
+* pitufo.mp4 --- Video de entrada usado para la detección del objeto
 
-* video_salida.mp4 --- Video que muestra la detección del objeto junto con el nombre de su label y la probabilidad
+* salida.mp4 --- Video que muestra la detección del objeto junto con el nombre de su label y la probabilidad
 
 
 
